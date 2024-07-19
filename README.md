@@ -56,16 +56,16 @@ Eventra es una aplicación web desarrollada con Django que permite la gestión d
 
 URL: http://localhost:8000/swagger/
 
-![Swagger Documentation](Source\Images\swagger.png)
+![Swagger Documentation](Source/Images/swagger.png)
 
 # Documentacion del backend: 
 
 URL: http://localhost:8000/redoc/ 
 
-![Swagger Documentation](Source\Images\redoc.png)
+![Swagger Documentation](Source/Images/redoc.png)
 
 ## Pruebas de POSTMAN:
 
-![Postman Demostration](Source\Images\postman.png)
-![Postman Demostration 2](Source\Images\postman2.png)
-![Swagger Demostration](Source\Images\AutorizationBearer.png) 
+![Postman Demostration](Source/Images/postman.png)
+![Postman Demostration 2](Source/Images/postman2.png)
+![Swagger Demostration](Source/Images/AutorizationBearer.png) 
